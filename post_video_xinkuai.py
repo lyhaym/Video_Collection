@@ -1,4 +1,3 @@
-# 获取新快用户-品类商品-商品列表 近7天
 import json
 import math
 import os
